@@ -1,0 +1,9 @@
+DATABASE = "weather"
+USER = "postgres"
+PASSWORD = "ffarzam_1992"
+DATABASE_HOST = 'localhost'
+DATABASE_PORT = '5432'
+API_RAW_URL = "http://api.openweathermap.org/data/2.5/weather"
+API_KEY = "3eb2381ac662acb4defa744088a680ba"
+SERVER_HOST = "192.168.1.167"
+SERVER_PORT = 8080
